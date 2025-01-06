@@ -1,3 +1,0 @@
-#-----------------------------------METODYKA--------------------------------------------------------------------------------------------------
-"""Neuromodulacja nerwów krzyżowych oznacza hospitalizację w ramach JGP A04 wszczepienie/wymiana stymulatora rdzenia kręgowego lub 
-wymiana generatora do stymulacji struktur głębokich mózgu ze sprawozdaną procedurą 86.961 Neuromodulacja krzyżowa, z rozpoznaniem N31 wg ICD10"""

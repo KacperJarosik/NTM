@@ -1,2 +1,0 @@
-#-----------------------------------METODYKA--------------------------------------------------------------------------------------------------
-"""Koszty refundacji rehabilitacji sprawozdanej z rozpoznaniem nietrzymania moczu"""
